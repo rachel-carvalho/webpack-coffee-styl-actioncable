@@ -28,6 +28,12 @@ environment.loaders.append('stylus', stylus)
 
 I also had to add `.styl` to the list of webpacker extensions and add `app/assets` to the resolved_paths in `config/webpacker.yml`.
 
+And installed the loader package
+
+```shell
+yarn add stylus-loader stylus
+```
+
 ## [ActionCable](http://guides.rubyonrails.org/action_cable_overview.html)
 
 [This blog post](https://evilmartians.com/chronicles/evil-front-part-3) helped me a lot trying to make ActionCable play nice with Webpacker, especially without sprockets.
