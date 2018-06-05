@@ -1,1 +1,3 @@
-alert 'Hello world from coffeescript'
+import 'stylesheets/application'
+
+console.log 'Hello world from coffeescript'
