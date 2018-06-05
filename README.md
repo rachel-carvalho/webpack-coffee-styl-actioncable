@@ -1,6 +1,6 @@
 # Webpacker + CoffeeScript + Stylus + ActionCable sample app
 
-This is a sample app using Rails 5.2 and these libraries.
+This is a sample app using Rails 5.2 and these libraries. It's running [live on Heroku](https://webpacker-actioncable-test.herokuapp.com/).
 
 ## [Webpacker](https://github.com/rails/webpacker) (no sprockets)
 
