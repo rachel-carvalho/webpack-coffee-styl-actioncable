@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5",
+    "actioncable": "^5.2.0",
     "coffee-loader": "^0.9.0",
     "coffeescript": "1.12.7",
     "stylus": "^0.54.5",
